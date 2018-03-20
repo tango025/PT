@@ -1,0 +1,23 @@
+nav{
+	margin-bottom: 2%;
+}
+.jumbotron{
+	margin-top: 6% ;
+}
+.grey{
+
+	background-color: #101010;
+	
+}
+.sp {
+	text-align: center;
+	color: white;
+	}
+.btn,.btn-lg{
+	background-color: #101010;
+	color: white;
+}	
+button{
+	width:100%;
+	margin-top: 5%;
+}

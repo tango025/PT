@@ -1,0 +1,36 @@
+.row{
+	margin-top: 8%;
+}
+.data{
+	width:40%;
+	display: inline-block;
+	color: white;
+	padding-left: 3%;
+}
+input{
+	margin: 10px 0;
+	background-color: #101010;
+	border-bottom: 3px solid white;
+	border-right: none;
+	border-left: none;
+	border-top: none;
+	color: white;
+}
+select{
+	width: 52%;
+	margin: 10px 0;
+}
+button{
+	margin: 10% 30%;
+}
+form{
+	background-color: #101010;
+	border-radius: 5%;
+	padding: 5px;
+}
+h2{
+	text-align: center;
+}
+input[type=date]{
+	color: #9393c6;
+}
